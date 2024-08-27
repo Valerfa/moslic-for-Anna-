@@ -1,0 +1,61 @@
+{
+  "name": "tailadmin-react-free",
+  "private": true,
+  "version": "1.0.5",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": {
+    "name": "TailAdmin",
+    "email": "hello@tailadmin.com",
+    "url": "https://tailadmin.com"
+  },
+  "dependencies": {
+    "@cyntler/react-doc-viewer": "^1.14.1",
+    "@headlessui/react": "^2.0.4",
+    "@heroicons/react": "^2.1.1",
+    "@pbe/react-yandex-maps": "^1.2.5",
+    "@pdftron/webviewer": "^10.7.3",
+    "@yandex/smart-captcha": "2.6.0",
+    "ag-grid-community": "^31.0.2",
+    "ag-grid-enterprise": "^31.0.2",
+    "ag-grid-react": "^31.0.2",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.6.5",
+    "date-fns": "^3.3.1",
+    "headlessui": "^0.0.0",
+    "jsvectormap": "^1.5.3",
+    "match-sorter": "^6.3.1",
+    "moment": "^2.30.1",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-datepicker": "^4.25.0",
+    "react-datetime-picker": "^5.6.0",
+    "react-dom": "^18.2.0",
+    "react-file-viewer": "^0.5.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.10.1",
+    "react-phone-number-input": "^3.3.12",
+    "react-router-dom": "^6.14.2",
+    "react-select": "^5.8.0",
+    "react-toastify": "^9.1.3",
+    "sort-by": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.17",
+    "@types/react-datepicker": "^4.19.6",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.27",
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.7",
+    "webpack": "^5.88.2"
+  }
+}
